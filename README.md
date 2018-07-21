@@ -1,2 +1,3 @@
-# react-gantt
-Simple react gantt
+# React Gantt
+
+A simple and lightweight gantt built on react.
